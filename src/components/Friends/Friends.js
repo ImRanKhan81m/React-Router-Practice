@@ -9,7 +9,7 @@ const Friends = () => {
             .then(data => setFriends(data))
     }, [])
 
-     
+
 
 
     return (
